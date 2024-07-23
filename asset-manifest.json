@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lola202/Delices/static/css/main.f855e6bc.css",
+    "main.js": "/Lola202/Delices/static/js/main.4f41bb91.js",
+    "index.html": "/Lola202/Delices/index.html",
+    "main.f855e6bc.css.map": "/Lola202/Delices/static/css/main.f855e6bc.css.map",
+    "main.4f41bb91.js.map": "/Lola202/Delices/static/js/main.4f41bb91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4f41bb91.js"
+  ]
+}
